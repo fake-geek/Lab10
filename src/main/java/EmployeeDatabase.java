@@ -16,6 +16,7 @@ public class EmployeeDatabase {
      * List of employees.
      */
     public List<Employee> employees;
+    public List
 
     /**
      * Constructor which initializes the employees list.
